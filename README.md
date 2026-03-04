@@ -44,6 +44,25 @@ efficiencies transport goods between planets under realistic constraints.
 * Logistics systems engineering
 * Simulation-based decision making
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="35" height="35" /> Getting Started
+#### To run the program locally through terminal:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SadatTanzim23/Intersteller-Highway-V2.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd Intersteller-Highway-v2
+   ```
+3. Activate Python virtual environment:
+   ```bash
+   source .venv/bin/activate
+   ```
+4. Run the program:
+   ```bash
+   python game.py
+   ```
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="40" height="40" /> Sources
 * https://www.youtube.com/watch?v=6bHwWFOz4Ww
 * https://trinket.io/glowscript/63cb9fd49d
