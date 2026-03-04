@@ -1,0 +1,52 @@
+[
+  {
+    "id": "2026-03-04T08:35:45.811315",
+    "origin": "Earth",
+    "destination": "Mars",
+    "ship": "Chevrolet Super Sonic",
+    "payload_kg": 0.0,
+    "window_start": "01012025",
+    "window_end": "01012025",
+    "result": {
+      "Flight impossible": false,
+      "Efficient flight parameters": {
+        "Launch date": "01012025",
+        "Launch vector": "-0.0000,32.7293,0.0000",
+        "Launch deltaV": 2.3449,
+        "Fuel": 15842.52,
+        "Arrival date": "16092025",
+        "Arrival vector": "-15.0140,-15.3623,0.0000",
+        "Arrival deltaV": 1.8732,
+        "_waypoints": [
+          [
+            0.0,
+            "Earth"
+          ],
+          [
+            258.8628355427513,
+            "Mars"
+          ]
+        ]
+      },
+      "Soonest arrival flight parameters": {
+        "Launch date": "01012025",
+        "Launch vector": "-0.0000,32.7293,0.0000",
+        "Launch deltaV": 2.3449,
+        "Fuel": 15842.52,
+        "Arrival date": "16092025",
+        "Arrival vector": "-15.0140,-15.3623,0.0000",
+        "Arrival deltaV": 1.8732,
+        "_waypoints": [
+          [
+            0.0,
+            "Earth"
+          ],
+          [
+            258.8628355427513,
+            "Mars"
+          ]
+        ]
+      }
+    }
+  }
+]
